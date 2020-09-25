@@ -1,13 +1,13 @@
 {
-  "main.css": "http//nsnarender5511.github.io/Portfolio/static/css/main.e13597f0.chunk.css",
-  "main.js": "http//nsnarender5511.github.io/Portfolio/static/js/main.6494a672.chunk.js",
-  "main.js.map": "http//nsnarender5511.github.io/Portfolio/static/js/main.6494a672.chunk.js.map",
-  "static/js/1.6eb6405c.chunk.js": "http//nsnarender5511.github.io/Portfolio/static/js/1.6eb6405c.chunk.js",
-  "static/js/1.6eb6405c.chunk.js.map": "http//nsnarender5511.github.io/Portfolio/static/js/1.6eb6405c.chunk.js.map",
-  "runtime~main.js": "http//nsnarender5511.github.io/Portfolio/static/js/runtime~main.d2eb54c1.js",
-  "runtime~main.js.map": "http//nsnarender5511.github.io/Portfolio/static/js/runtime~main.d2eb54c1.js.map",
-  "static/css/main.e13597f0.chunk.css.map": "http//nsnarender5511.github.io/Portfolio/static/css/main.e13597f0.chunk.css.map",
-  "index.html": "http//nsnarender5511.github.io/Portfolio/index.html",
-  "precache-manifest.8a96414d53a2557366638ba8a83a57f7.js": "http//nsnarender5511.github.io/Portfolio/precache-manifest.8a96414d53a2557366638ba8a83a57f7.js",
-  "service-worker.js": "http//nsnarender5511.github.io/Portfolio/service-worker.js"
+  "main.css": "/Resume/static/css/main.e13597f0.chunk.css",
+  "main.js": "/Resume/static/js/main.d97b25d2.chunk.js",
+  "main.js.map": "/Resume/static/js/main.d97b25d2.chunk.js.map",
+  "static/js/1.6eb6405c.chunk.js": "/Resume/static/js/1.6eb6405c.chunk.js",
+  "static/js/1.6eb6405c.chunk.js.map": "/Resume/static/js/1.6eb6405c.chunk.js.map",
+  "runtime~main.js": "/Resume/static/js/runtime~main.8d5efb98.js",
+  "runtime~main.js.map": "/Resume/static/js/runtime~main.8d5efb98.js.map",
+  "static/css/main.e13597f0.chunk.css.map": "/Resume/static/css/main.e13597f0.chunk.css.map",
+  "index.html": "/Resume/index.html",
+  "precache-manifest.e4292031b7fe67cc123d624b667cf7ed.js": "/Resume/precache-manifest.e4292031b7fe67cc123d624b667cf7ed.js",
+  "service-worker.js": "/Resume/service-worker.js"
 }

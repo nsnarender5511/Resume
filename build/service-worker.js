@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "http//nsnarender5511.github.io/Portfolio/precache-manifest.8a96414d53a2557366638ba8a83a57f7.js"
+  "/Resume/precache-manifest.e4292031b7fe67cc123d624b667cf7ed.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("http//nsnarender5511.github.io/Portfolio/index.html", {
+workbox.routing.registerNavigationRoute("/Resume/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
